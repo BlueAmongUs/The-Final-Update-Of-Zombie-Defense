@@ -8,7 +8,7 @@
     "watch": "rbxtsc -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "BlueAmongUs",
   "license": "ISC",
   "devDependencies": {
     "@rbxts/compiler-types": "^2.3.0-types.1",
